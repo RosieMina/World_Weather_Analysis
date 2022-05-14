@@ -1,5 +1,7 @@
 # Adding config.py file.
 config.py
+gkey.py
+
 API_practice.ipynb
 random_number.ipynb
 # Byte-compiled / optimized / DLL files
